@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 tmp/*
 >>>>>>> e6b5846 (supprimer le filtre sur les fchiers xml)
+=======
+tmp/*
+>>>>>>> BRANCH_A_MERGE
 *.txt
